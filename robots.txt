@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://flixplay.eu.cc/sitemap.xml
+Sitemap: https://aimazhi.ccwu.cc/sitemap.xml
 
 User-agent: Baiduspider
 Allow: /
